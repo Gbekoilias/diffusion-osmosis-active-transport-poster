@@ -1,5 +1,7 @@
 # 🧬 Diffusion, Osmosis, and Active Transport – Biology Poster Project
 
+![active_transport_cover_photo](https://images.ctfassets.net/4yflszkpcwkt/7EQU0JjUx3WT2cAYGnZsQc/2622309aaa943735c8226826bbb180f7/Types-of-Active-Transport.jpg)
+
 This repository contains an academic poster project created as part of the *Human Biological Sciences* coursework.  
 The poster visually explains the mechanisms of **diffusion, osmosis, and active transport** across cell membranes using accurate scientific language, textbook references, and high-quality diagrams.
 
